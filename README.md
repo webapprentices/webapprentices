@@ -25,6 +25,15 @@ I am a Team Leader | Project Manager | Web Developer living in Cambridge, Massac
 
 - You can each me via [**LinkedIn**](https://www.linkedin.com/in/genebabon/).
 
+---
+
+### Certifications:
+
+I hold six [**Agile Project Management**](https://babon-agile.carrd.co/) certificates.
+
+I hold eight [**Social Media Marketing**](https://babon-social.carrd.co/) certificates.
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
