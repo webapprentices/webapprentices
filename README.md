@@ -25,7 +25,6 @@ I am a Team Leader | Project Manager | Web Developer living in Cambridge, Massac
 
 - You can each me via [**LinkedIn**](https://www.linkedin.com/in/genebabon/).
 
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -37,11 +36,9 @@ I am a Team Leader | Project Manager | Web Developer living in Cambridge, Massac
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"/>&nbsp;  
-  ... 
-  
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"/>&nbsp;
 </div>
+
 
 <!--
 **webapprentices/webapprentices** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
