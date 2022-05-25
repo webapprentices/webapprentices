@@ -29,9 +29,9 @@ I am a Team Leader | Project Manager | Web Developer living in Cambridge, Massac
 
 ### Certifications:
 
-I hold six [**Agile Project Management**](https://babon-agile.carrd.co/) certificates.
+I have earned six [**Agile Project Management**](https://babon-agile.carrd.co/) certificates.
 
-I hold eight [**Social Media Marketing**](https://babon-social.carrd.co/) certificates.
+I have earned eight [**Social Media Marketing**](https://babon-social.carrd.co/) certificates.
 
 ---
 
