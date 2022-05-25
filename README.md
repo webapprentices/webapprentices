@@ -20,7 +20,13 @@
 
 I am a Team Leader | Project Manager | Web Developer living in Cambridge, Massachusetts
   
+- I lead the virtual self-study group initiative for [**Boston PHP Meetup**](https://webapprentices.org/about-web-apprentices/).
 
+- I am the self-annointed Alumni Director for [**Boston University Center for Digital Imaging Arts (CDIA)**](https://cdia.carrd.co/).
+
+- I am actively seeking next management-level opportunity.
+
+- You can each me via [**LinkedIn**](https://www.linkedin.com/in/genebabon/).
 
 
 
