@@ -15,7 +15,7 @@
 
 ### About Me:
 
-I am a Team Leader | Project Manager | Web Developer living in Cambridge, Massachusetts
+I am a Team Leader | Project Manager | Web Developer living in Cambridge, Massachusetts.
   
 - I lead the virtual self-study group initiative for [**Boston PHP Meetup**](https://webapprentices.org/about-web-apprentices/).
 
