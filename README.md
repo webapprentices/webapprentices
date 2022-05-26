@@ -17,7 +17,7 @@
 
 I am a Team Leader | Project Manager | Web Developer living in Cambridge, Massachusetts.
   
-- I lead the virtual self-study group initiative for [**Boston PHP Meetup**](https://webapprentices.org/about-web-apprentices/).
+- I lead the virtual self-study group initiative for [**Boston PHP Meetup**](https://webapprentices.org/about-web-apprentices/) and [**MergePHP**]](https://mergephp.carrd.co/).
 
 - I am the self-annointed Alumni Director for [**Boston University Center for Digital Imaging Arts (CDIA)**](https://cdia.carrd.co/).
 
