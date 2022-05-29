@@ -25,7 +25,6 @@ I am a Team Leader | Project Manager | Web Developer living in Cambridge, Massac
 
 - I can be reached via [**LinkedIn**](https://www.linkedin.com/in/genebabon/) or [**GeneBabon.com**](https://babon.carrd.co/).
 
-<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
 ---
 
 ### Certifications:
