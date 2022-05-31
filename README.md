@@ -17,7 +17,7 @@
 
 I am a Team Leader | Project Manager | Web Developer living in Cambridge, Massachusetts.
 
-- I [**Pick a Lane. Keep driving**](https://babon.carrd.co/).
+- I [**Pick a lane. Keep driving**](https://babon.carrd.co/).
 
 - I am a fan of [**Strengths Based Leadership**](https://babon-strengths.carrd.co/).
 
