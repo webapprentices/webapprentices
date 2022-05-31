@@ -27,7 +27,7 @@ I am a Team Leader | Project Manager | Web Developer living in Cambridge, Massac
 
 - I am actively seeking next management-level opportunity.
 
-- I can be reached via [**LinkedIn**](https://www.linkedin.com/in/genebabon/) or [**GeneBabon.com**](https://babon.carrd.co/).
+- I can be reached via [**LinkedIn**](https://www.linkedin.com/in/genebabon/).
 
 ---
 
