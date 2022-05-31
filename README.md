@@ -21,6 +21,8 @@ I am a Team Leader | Project Manager | Web Developer living in Cambridge, Massac
 
 - I am the self-annointed Alumni Director for [**Boston University Center for Digital Imaging Arts (CDIA)**](https://cdia.carrd.co/).
 
+- I am a fan of [**Strengths Based Leadership**](https://babon-strengths.carrd.co/).
+
 - I am actively seeking next management-level opportunity.
 
 - I can be reached via [**LinkedIn**](https://www.linkedin.com/in/genebabon/) or [**GeneBabon.com**](https://babon.carrd.co/).
